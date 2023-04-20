@@ -16,4 +16,4 @@ Questions to answer:
     5.
     6
 
-Link to our notebook: [Does this work?](mainipynb) 
+Link to our notebook: [Does this work?](./main.ipynb) 
