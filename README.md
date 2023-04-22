@@ -19,3 +19,5 @@ Questions to answer:
 Link to our notebook: [Does this work?](./main.ipynb) 
 
 Google doc link for Report: [Report](https://docs.google.com/document/d/1LbhfqXlMJH1DAMvxRMfqI9Fi7UxrOiV5cc1WKhu2Ja4/edit)
+
+Create a detailed README.md that introduces your repository, sets the expectations on where to find things, and mentions each group member's contributions.
