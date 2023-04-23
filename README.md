@@ -2,7 +2,7 @@
 
 ## Group 2: The People
 
-### Group Members: [Matthew Cizek](https://github.com/MattCizek), [Jake Uhl](https://github.com/Jake-Uhl), [Shirley Cho](https://github.com/snowwly)
+### Group Members: [Matthew Cizek](https://github.com/MattCizek){:target="_blank"}, [Jake Uhl](https://github.com/Jake-Uhl){:target="_blank"}, [Shirley Cho](https://github.com/snowwly){:target="_blank"}
 ---
 [Business Census API Data](https://www.census.gov/data/developers/data-sets/abs.2019.html)
 
@@ -17,11 +17,11 @@
 
 ## Shirley 
 
->1.[Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb)
+>1.[Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb){:target="_blank"}
 
->2.[What are the age groups of business owners over the years?](./Shirley/Q2ETL.ipynb)
+>2.[What are the age groups of business owners over the years?](./Shirley/Q2ETL.ipynb){:target="_blank"}
 
->3.[What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
+>3.[What are the education level of most business owners?](./Shirley/Q3ETL.ipynb){:target="_blank"}
 
 ## Matt
 
@@ -36,7 +36,7 @@
 ---
 ## Project Report
 
->Click here: [Change this later to link to pdf](./main.ipynb) 
+>Click here: [Change this later to link to pdf](./main.ipynb){:target="_blank"}
 
 >Google doc link for Report: [Project Report](https://docs.google.com/document/d/1LbhfqXlMJH1DAMvxRMfqI9Fi7UxrOiV5cc1WKhu2Ja4/edit)
 
