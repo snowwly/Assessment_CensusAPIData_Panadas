@@ -1,23 +1,35 @@
-# Assessment CensusAPIData Panadas
+# Assessment Business Census API Data
 
-Census API Data on https://www.census.gov/data/developers/data-sets/abs.2019.html
+## Group 2: The People
 
-Technical Documentation : 
-https://www.census.gov/programs-surveys/abs/technical-documentation/api.2019.html#list-tab-702748516
+### Group Members: Matthew Cizek, Jake Uhl, Shirley Cho
+---
+[Business Census API Data](https://www.census.gov/data/developers/data-sets/abs.2019.html)
 
-NACIS stuff:
-https://www.census.gov/naics/?input=61&chart=2017
+The Annual Business Survey (ABS) provides information on selected economic and demographic characteristics for businesses and business owners by sex, ethnicity, race, and veteran status.
 
-Questions to answer:    
--   1.
--   2.
--   3.
+[Business Census API Technical Documentation](https://www.census.gov/programs-surveys/abs/technical-documentation/api.2019.html#list-tab-702748516)
+
+[NACIS](https://www.census.gov/naics/?input=61&chart=2017)
+---
+## Links to ETL Reports for Each Question:
+
+# Shirley 
+
+-   1. [Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb)
+-   2. [What are the age groups of business owners over the years?](./Shirley/Q2ETL.ipynb)
+-   3. [What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
+
+# Matt
+
+# Jake
+
 -   4.
 -   5.
 -   6.
+---
+>Click here: [Change this later to link to pdf](./main.ipynb) 
 
-Link to our notebook: [Does this work?](./main.ipynb) 
-
-Google doc link for Report: [Report](https://docs.google.com/document/d/1LbhfqXlMJH1DAMvxRMfqI9Fi7UxrOiV5cc1WKhu2Ja4/edit)
+>Google doc link for Report: [Project Report](https://docs.google.com/document/d/1LbhfqXlMJH1DAMvxRMfqI9Fi7UxrOiV5cc1WKhu2Ja4/edit)
 
 Create a detailed README.md that introduces your repository, sets the expectations on where to find things, and mentions each group member's contributions.
