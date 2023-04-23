@@ -2,7 +2,7 @@
 
 ## Group 2: The People
 
-### Group Members: Matthew Cizek, Jake Uhl, Shirley Cho
+### Group Members: [Matthew Cizek](https://github.com/MattCizek), [Jake Uhl](https://github.com/Jake-Uhl), [Shirley Cho](https://github.com/snowwly)
 ---
 [Business Census API Data](https://www.census.gov/data/developers/data-sets/abs.2019.html)
 
