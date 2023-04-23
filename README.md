@@ -30,7 +30,7 @@
 
 ## Matt
 
->7. [What are the needs of veteran business owners?]
+>7. [What industries do veteran business owners prefer or struggle in?](./Matt/matt_notebook.ipynb)
 
 ## Jake
 
