@@ -14,12 +14,13 @@
 
 ---
 ## ETL Report Links
----
 
 # Shirley 
 
 >1.[Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb)
+
 >2.[What are the age groups of business owners over the years?](./Shirley/Q2ETL.ipynb)
+
 >3.[What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
 
 # Matt
@@ -27,12 +28,14 @@
 # Jake
 
 >4.
+
 >5.
+
 >6.
 
 ---
 ## Project Report
----
+
 >Click here: [Change this later to link to pdf](./main.ipynb) 
 
 >Google doc link for Report: [Project Report](https://docs.google.com/document/d/1LbhfqXlMJH1DAMvxRMfqI9Fi7UxrOiV5cc1WKhu2Ja4/edit)
