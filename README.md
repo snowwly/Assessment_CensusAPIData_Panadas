@@ -6,27 +6,32 @@
 ---
 [Business Census API Data](https://www.census.gov/data/developers/data-sets/abs.2019.html)
 
-The Annual Business Survey (ABS) provides information on selected economic and demographic characteristics for businesses and business owners by sex, ethnicity, race, and veteran status.
+*"The Annual Business Survey (ABS) provides information on selected economic and demographic characteristics for businesses and business owners by sex, ethnicity, race, and veteran status."*
 
 [Business Census API Technical Documentation](https://www.census.gov/programs-surveys/abs/technical-documentation/api.2019.html#list-tab-702748516)
 
 [NACIS](https://www.census.gov/naics/?input=61&chart=2017)
+
 ---
-## Links to ETL Reports for Each Question:
+## ETL Report Links
+---
 
 # Shirley 
 
--   1. [Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb)
--   2. [What are the age groups of business owners over the years?](./Shirley/Q2ETL.ipynb)
--   3. [What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
+>1.[Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb)
+>2.[What are the age groups of business owners over the years?](./Shirley/Q2ETL.ipynb)
+>3.[What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
 
 # Matt
 
 # Jake
 
--   4.
--   5.
--   6.
+>4.
+>5.
+>6.
+
+---
+## Project Report
 ---
 >Click here: [Change this later to link to pdf](./main.ipynb) 
 
