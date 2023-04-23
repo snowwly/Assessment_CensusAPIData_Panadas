@@ -32,7 +32,7 @@
 
 ## Jake
 
->4.
+>4.[How many employees are in each industry](./Jake/questions_4_and_5.ipynb)
 
 >5.
 
