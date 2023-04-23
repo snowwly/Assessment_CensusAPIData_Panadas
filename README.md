@@ -22,21 +22,21 @@
 
 ## Shirley 
 
->1.[Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb)
+>1. [Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb)
 
->2.[What are the age groups of business owners over the years?](./Shirley/Q2ETL.ipynb)
+>2. [What are the age groups of business owners over the years?](./Shirley/Q2ETL.ipynb)
 
->3.[What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
+>3. [What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
 
 ## Matt
 
 ## Jake
 
->4.[How many employees are in each industry](./Jake/questions_4_and_5.ipynb)
+>4. [How many employees are in each industry](./Jake/questions_4_and_5.ipynb)
 
->5.
+>5. [What is the average annual income based on industry?](./Jake/questions_4_and_5.ipynb)
 
->6.
+>6. [How has the number of employees changed over time?](./Jake/question_6.ipynb)
 
 ---
 ## Project Report
