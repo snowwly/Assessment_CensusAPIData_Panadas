@@ -10,7 +10,12 @@
 
 [Business Census API Technical Documentation](https://www.census.gov/programs-surveys/abs/technical-documentation/api.2019.html#list-tab-702748516)
 
+*"APIs are available for Company Summary, Characteristics of Businesses, Characteristics of Business Owners, and Technology Characteristics of Businesses."*
+
 [NACIS](https://www.census.gov/naics/?input=61&chart=2017)
+
+*"North American Industry Classification System"*
+*"The North American Industry Classification System (NAICS) is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy."*
 
 ---
 ## ETL Report Links
