@@ -15,7 +15,7 @@
 ---
 ## ETL Report Links
 
-# Shirley 
+## Shirley 
 
 >1.[Why business owners choose to own a business?](./Shirley/Q1ETL.ipynb)
 
@@ -23,9 +23,9 @@
 
 >3.[What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
 
-# Matt
+## Matt
 
-# Jake
+## Jake
 
 >4.
 
