@@ -28,10 +28,6 @@
 
 >3. [What are the education level of most business owners?](./Shirley/Q3ETL.ipynb)
 
-## Matt
-
->7. [What industries do veteran business owners prefer or struggle in?](./Matt/matt_notebook.ipynb)
-
 ## Jake
 
 >4. [How many employees are in each industry](./Jake/questions_4_and_5.ipynb)
@@ -40,11 +36,15 @@
 
 >6. [How has the number of employees changed over time?](./Jake/question_6.ipynb)
 
+## Matt
+
+>7. [What industries do veteran business owners prefer or struggle in?](./Matt/matt_notebook.ipynb)
+
 ---
 ## Project Report
 
->Click here: [Change this later to link to pdf](./main.ipynb)
+>[Project Report PDF](Project_Report_Business_CensusAPI_Assessment.pdf)
 
->Google doc link for Report: [Project Report](https://docs.google.com/document/d/1LbhfqXlMJH1DAMvxRMfqI9Fi7UxrOiV5cc1WKhu2Ja4/edit)
+---
 
-Create a detailed README.md that introduces your repository, sets the expectations on where to find things, and mentions each group member's contributions.
+
