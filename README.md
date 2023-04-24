@@ -4,6 +4,8 @@
 
 ### Group Members: [Matthew Cizek](https://github.com/MattCizek), [Jake Uhl](https://github.com/Jake-Uhl), [Shirley Cho](https://github.com/snowwly)
 ---
+## About
+
 [Business Census API Data](https://www.census.gov/data/developers/data-sets/abs.2019.html)
 
 *"The Annual Business Survey (ABS) provides information on selected economic and demographic characteristics for businesses and business owners by sex, ethnicity, race, and veteran status."*
@@ -18,10 +20,10 @@
 *"The North American Industry Classification System (NAICS) is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy."*
 
 ---
->Using the above data sources and documentation, our team deep dives to answer and visualize the following questions using python pandas, jupyter notebooks, and associated graphing tools such as matplotlib, plotly, pandas plot, etc.
+Using the above data sources and documentation, our team deep dives to answer and visualize the following questions using python pandas, jupyter notebooks, and associated graphing tools such as matplotlib, plotly, pandas plot, etc.
 
 ## ETL Report Links 
--   The Extraction, Transform, and Load process is outlined in the following jupyter notebooks corresponding to each question and contributed by the member the link falls under. The visualizations and code will be found along with it. Click a a link below to view the ETL process, code, and visualizations.  
+>The Extraction, Transform, and Load process is outlined in the following jupyter notebooks corresponding to each question and contributed by the member the link falls under. The visualizations and code will be found along with it. Click a a link below to view the ETL process, code, and visualizations.  
 
 ## Shirley 
 
@@ -45,7 +47,7 @@
 
 ---
 ## Project Report
--   This project reports details our team members' visualizations and written conclusions/insights gathered after the ETL process for each question and was contributed by all three members for their respective questions. Click below for the pdf file of our project report.
+>This project reports details our team members' visualizations and written conclusions/insights gathered after the ETL process for each question and was contributed by all three members for their respective questions. Click below for the pdf file of our project report.
 
 >[Project Report PDF](Project_Report_Business_CensusAPI_Assessment.pdf)
 
