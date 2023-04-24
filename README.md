@@ -36,7 +36,7 @@
 
 >6. [How has the number of employees changed over time?](./Jake/question_6.ipynb)
 
-## Matt
+## Matthew
 
 >7. [What industries do veteran business owners prefer or struggle in?](./Matt/matt_notebook.ipynb)
 
