@@ -18,7 +18,10 @@
 *"The North American Industry Classification System (NAICS) is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy."*
 
 ---
-## ETL Report Links
+Using the above data sources and documentation, our team deep dives to answer and visualize the following questions using python pandas, jupyter notebooks, and associated graphing tools such as matplotlib, plotly, pandas plot, etc.
+
+## ETL Report Links 
+-   ### The Extraction, Transform, and Load process is outlined in the following jupyter notebooks corresponding to each question and contributed by the member the link falls under. The visualizations and code will be found along with it. Click a a link below to view the ETL process, code, and visualizations.  
 
 ## Shirley 
 
@@ -42,9 +45,11 @@
 
 ---
 ## Project Report
+-   ### This project reports details our team members' visualizations and written conclusions/insights gathered after the ETL process for each question and was contributed by all three members for their respective questions. Click below for the pdf file of our project report.
 
 >[Project Report PDF](Project_Report_Business_CensusAPI_Assessment.pdf)
 
 ---
+
 
 
